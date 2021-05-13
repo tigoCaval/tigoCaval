@@ -1,5 +1,7 @@
 ### Hi there 👋
-*If you found this project useful, consider making a donation to support the developer.* 
+*If you like my open source projects, consider supporting the developer.* 
+
+*The contribution is optional :smiley:. Thanks!* 
 
 [![paypal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=ZQRM3T5WG7JL4)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=PPDESEV98R8KS)
