@@ -6,6 +6,8 @@
 [![paypal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=ZQRM3T5WG7JL4) 
 |
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=9BQYV7FVREN92)
+
+PIX: tiagocppix@gmail.com
 <!--
 **tigoCaval/tigoCaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
